@@ -1,0 +1,462 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Graph",
+            "request": "launch",
+            "mainClass": "DSA.Map.Graph",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch All_Negative_OneSide5",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.All_Negative_OneSide5",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch buy_and_sell_stock",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.Buy_and_sell_series.buy_and_sell_stock",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch infinite_transection",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.Buy_and_sell_series.infinite_transection",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch KSmallest",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.KSmallest",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch KadaneAlgorithm8",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.KadaneAlgorithm8",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Max_Min_Of_Array",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.Max_Min_Of_Array",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Minimize_Th_Heights_II9",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.Minimize_Th_Heights_II9",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Minimum_Number_Of_jumps9",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.Minimum_Number_Of_jumps9",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reverse_Array",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.Reverse_Array",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Union6",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.Union6",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch alternate_positive_negative",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.alternate_positive_negative",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch check_subarray",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.check_subarray",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch chocolate_distribution_problem",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.chocolate_distribution_problem",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch common_element_in_3array",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.common_element_in_3array",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch count_inversion",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.count_inversion",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch count_inversion2",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.count_inversion2",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch duplicateElement16",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.duplicateElement16",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch duplicateElement16_2",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.duplicateElement16_2",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch elements_more_than_NbyK",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.elements_more_than_NbyK",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorial",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.factorial",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch kadaneAlgorithmPart2",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.kadaneAlgorithmPart2",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch longest_coinsecutive_subsequence",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.longest_coinsecutive_subsequence",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch maximum_product_subarray",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.maximum_product_subarray",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch merge_intervals",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.merge_intervals",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch merge_without_extra_space17",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.merge_without_extra_space17",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch merge_without_extra_space172",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.merge_without_extra_space172",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch minimum_swaps_and_k_together",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.minimum_swaps_and_k_together",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch next_permutation",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.next_permutation",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch pair_equal_to_sum",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.pair_equal_to_sum",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch rotateArray7",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.rotateArray7",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch smallest_subarray_with_sum_greater_than_x",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.smallest_subarray_with_sum_greater_than_x",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum_equal_zero",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.sum_equal_zero",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch test1",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.test1",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch three_way_partitioning",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.three_way_partitioning",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch trapping_rain_water",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.trapping_rain_water",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch triple_sum_in_array",
+            "request": "launch",
+            "mainClass": "DSA.ARRAY.triple_sum_in_array",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch Kth_element_in_matrix$FastReader",
+            "request": "launch",
+            "mainClass": "DSA.MATRIX.Kth_element_in_matrix$FastReader",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch max_rectangle",
+            "request": "launch",
+            "mainClass": "DSA.MATRIX.max_rectangle",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch medin_in_row_sorted_matrix",
+            "request": "launch",
+            "mainClass": "DSA.MATRIX.medin_in_row_sorted_matrix",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch rotate_ninety_degree",
+            "request": "launch",
+            "mainClass": "DSA.MATRIX.rotate_ninety_degree",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch row_with_max_1",
+            "request": "launch",
+            "mainClass": "DSA.MATRIX.row_with_max_1",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch search_a_2D_matrix",
+            "request": "launch",
+            "mainClass": "DSA.MATRIX.search_a_2D_matrix",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch solution1",
+            "request": "launch",
+            "mainClass": "DSA.MATRIX.solution1",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch solution2",
+            "request": "launch",
+            "mainClass": "DSA.MATRIX.solution2",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch solution4",
+            "request": "launch",
+            "mainClass": "DSA.MATRIX.solution4",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch sorted_matrix",
+            "request": "launch",
+            "mainClass": "DSA.MATRIX.sorted_matrix",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch spirally_traversing_a_matrix",
+            "request": "launch",
+            "mainClass": "DSA.MATRIX.spirally_traversing_a_matrix",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch count_say",
+            "request": "launch",
+            "mainClass": "DSA.String.count_say",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch duplicates_in_string",
+            "request": "launch",
+            "mainClass": "DSA.String.duplicates_in_string",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindrome_string",
+            "request": "launch",
+            "mainClass": "DSA.String.palindrome_string",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverse_a_string",
+            "request": "launch",
+            "mainClass": "DSA.String.reverse_a_string",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch rotation_of_other",
+            "request": "launch",
+            "mainClass": "DSA.String.rotation_of_other",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch valid_suffle",
+            "request": "launch",
+            "mainClass": "DSA.String.valid_suffle",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch solution11",
+            "request": "launch",
+            "mainClass": "DSA.codechef_compi.solution11",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch solution12",
+            "request": "launch",
+            "mainClass": "DSA.codechef_compi.solution12",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch solution13",
+            "request": "launch",
+            "mainClass": "DSA.codechef_compi.solution13",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch solution14",
+            "request": "launch",
+            "mainClass": "DSA.codechef_compi.solution14",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch mahajan$FastReader",
+            "request": "launch",
+            "mainClass": "DSA.codechef_june.mahajan$FastReader",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch minimum_dual_area",
+            "request": "launch",
+            "mainClass": "DSA.codechef_june.minimum_dual_area",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch solution1(1)",
+            "request": "launch",
+            "mainClass": "codechef.april_comp_1.solution1",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch solution2(1)",
+            "request": "launch",
+            "mainClass": "codechef.april_comp_1.solution2",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch solution3",
+            "request": "launch",
+            "mainClass": "codechef.april_comp_1.solution3",
+            "projectName": "CO_CO_advd_feec3eeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch solution4(1)",
+            "request": "launch",
+            "mainClass": "codechef.april_comp_1.solution4",
+            "projectName": "CO_CO_advd_feec3eeb"
+        }
+    ]
+}
